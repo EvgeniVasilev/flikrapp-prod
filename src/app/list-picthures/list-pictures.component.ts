@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Pictures } from '../Pictures';
 import { FlikrService } from '../shared/flikr.service';
 
 @Component({

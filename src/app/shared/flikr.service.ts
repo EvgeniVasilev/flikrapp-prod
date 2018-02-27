@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { Pictures } from '../Pictures';
 
 import { Http, Headers, Response, ResponseOptionsArgs, ResponseOptions } from '@angular/http';
 import 'rxjs/add/operator/map';
