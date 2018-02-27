@@ -1,0 +1,21 @@
+.authorPlaceholder {
+    width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+#author {
+    position: absolute;
+    top: -23px;    
+    width: 100%;
+    background-color: rgba(34, 34, 34, 0.9);
+    display: none;
+}
+
+img:hover + div.authorPlaceholder > a#author {
+    display: block;
+}
+
+a#author:hover{
+    display: block
+}
