@@ -9,6 +9,8 @@ It contains two screens - gallery (displays recently uploaded pictures) and sear
 ### Search
 ![Search Screen](./screenshots/search_scaled.png)
 
+<hr>
+
 ## First Steps
 run `npm install --save` 
 
