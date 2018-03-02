@@ -10,6 +10,7 @@ export class SearchComponent implements OnInit {
   tag: string;
   pictures: Array<any> = [];
   perPage = 20;
+  textValue = '';
 
   getSearchCriteria(value: string) {
     this.tag = value;
